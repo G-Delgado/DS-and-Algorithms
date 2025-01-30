@@ -36,7 +36,7 @@ public class LinkedLists {
 
     public static void linkedListTest() {
         DoublyLinkedListManual linkedList = new DoublyLinkedListManual();
-        // Insert first 5 nodes into the list
+        // Insert first 5 nodes into the linkedlist
         linkedList.insert(1);
         linkedList.insert(2);
         linkedList.insert(3);
