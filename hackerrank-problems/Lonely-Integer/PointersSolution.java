@@ -18,5 +18,6 @@ class PointersSolution {
                 finalValue = currentNumber;
             }
         }
+        return finalValue;
     }
 }
